@@ -1,4 +1,4 @@
-🏦 Bank Management System  
+🏦 Vishal International Bank
 
 The **Bank Management System** is a console-based Python project designed to simulate the basic operations of a real bank. It allows users to create accounts, perform deposits and withdrawals, check balances, and record every transaction in a secure and structured way. The project has been built with a strong focus on **file handling**, ensuring that user data and transaction history are stored permanently in text files and can be accessed across sessions.  
 
