@@ -11,11 +11,3 @@ This system provides users with a simple yet effective interface to manage banki
 The program emphasizes **secure login** through account numbers and passwords, along with proper error handling for incorrect inputs or insufficient balance during withdrawals. Every action taken by the user is recorded in a transaction log to maintain transparency.  
 
 ---
-
-## 📂 File Handling  
-
-Two main text files are used for data storage:  
-
-- **accounts.txt** – Stores details of each account, including:
-
-
