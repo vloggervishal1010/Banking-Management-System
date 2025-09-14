@@ -1,3 +1,0 @@
-account_number,type,amount,date
-154387,Deposit,50000.00,2025-09-13
-154387,Withdrawal,4563.00,2025-09-13
