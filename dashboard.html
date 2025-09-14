@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dashboard</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</head>
+<body>
+  <h2>Welcome {{ name }} 🎉</h2>
+  <p>Current Balance: ₹ {{ balance }}</p>
+
+  <form method="post">
+    <input type="number" name="amount" placeholder="Enter Amount" required>
+    <button type="submit" name="action" value="deposit">Deposit</button>
+    <button type="submit" name="action" value="withdraw">Withdraw</button>
+  </form>
+</body>
+</html>
